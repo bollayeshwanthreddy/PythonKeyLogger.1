@@ -1,0 +1,165 @@
+
+[2] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(59, 12)
+====================
+[2] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(77, 47)
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :Q
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :W
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :E
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :R
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :T
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :Y
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :U
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :I
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :O
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :P
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :A
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :S
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :D
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :F
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :G
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :H
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :J
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :K
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :L
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :Z
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :X
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :C
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :V
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :B
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :N
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :M
+====================
+[2] WindowName : Untitled-1 - MyWays - Visual Studio Code
+	Keyboard key :Oem_Comma
+====================
+[3] WindowName : Running applications
+	Button:mouse left down
+	Clicked in (Position):(900, 744)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse right down
+	Clicked in (Position):(148, 144)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(105, 205)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(163, 135)
+====================
+[3] WindowName : None
+	Button:mouse left down
+	Clicked in (Position):(663, 708)
+====================
+[3] WindowName : Command Prompt - python  PythonKeylogger.py
+	Button:mouse left down
+	Clicked in (Position):(995, 143)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(177, 190)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(219, 156)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(220, 186)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(218, 202)
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(612, 350)
+====================
+[3] WindowName : Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :Return
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :Return
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :Return
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :Return
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :Q
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :W
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :E
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :R
+====================
+[3] WindowName : ? Logfile.txt - MyWays - Visual Studio Code
+	Keyboard key :T
+====================
+[3] WindowName : Chrome Legacy Window
+	Button:mouse left down
+	Clicked in (Position):(171, 228)
+====================
